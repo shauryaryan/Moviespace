@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #111;
+  color: white;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.app {
+  background-color: #111;
+  padding-bottom: 40px;
+}
